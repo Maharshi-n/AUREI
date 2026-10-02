@@ -1,0 +1,13 @@
+.venv/
+.cache/
+.tmp/
+models/
+__pycache__/
+*.pyc
+results/
+*.md
+!README.md
+check.py
+demo.py
+benchmark.py
+profile_engine.py
